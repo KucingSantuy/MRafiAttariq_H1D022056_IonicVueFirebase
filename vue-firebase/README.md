@@ -1,6 +1,6 @@
-    Nama       : Bagus Wijoyoseno
+    Nama       : Muhammad Rafi Attariq
 
-    NIM        : H1D022030
+    NIM        : H1D022056
 
     Shift Baru : D
 
