@@ -1,6 +1,6 @@
     Nama       : Muhammad Rafi Attariq
 
-    NIM        : H1D02206
+    NIM        : H1D022056
 
     Shift Baru : D
 
